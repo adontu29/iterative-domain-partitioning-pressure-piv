@@ -1,0 +1,1 @@
+*.vc7 filter=lfs diff=lfs merge=lfs -text
